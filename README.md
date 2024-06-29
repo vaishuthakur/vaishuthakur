@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Dsa with java,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vaishalithakur9568@gmail.com
-- 😄 Pronouns: female
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: 
 
 <!---
